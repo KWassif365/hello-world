@@ -1,3 +1,4 @@
 # hello-world
 First test repoitory
-Dr. Khaled Wassif
+Dr. Khaled T. Wassif
+Software Engineering
